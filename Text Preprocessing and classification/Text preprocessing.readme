@@ -1,0 +1,21 @@
+# Begginers
+## NLP Project on Text Processing and Classification 
+# Project Template Outcomes
+Understanding problem statement and the approach
+Data Exploration and visualization
+What is Tokenization?
+Performing tokenization using word_tokenization from nltk library
+What are stopwords?
+How to remove stopwords?
+Removing the punctuations
+What is stemming?
+Stemming using Porter Stemmer
+Stemming using Lancaster Stemmer
+Distributions of words in each document
+Creating bag of words with binary
+Creating bag of words without binary
+Creating bag of words with N-grams
+What is TF-IDF?
+How to find TF-IDF score?
+Building Logistic regression model
+Predictions on new reviews
