@@ -1,4 +1,5 @@
-Business Overview
+# Project Description
+# Business Overview
 
 A recommendation system is a type of algorithm designed to recommend or suggest things to the user based on many different factors. The recommendation system deals with a large amount of data and filters it out based on user’s preferences and interests. With the rise of Youtube, Netflix, Amazon, etc., recommendation systems have taken a crucial place. Recommender systems are critical in many industries as they can help to generate a large amount of revenue. This series of projects aims to introduce recommendation systems and several algorithms used for recommendation.
 
@@ -38,4 +39,43 @@ Popular items countriwise
 Popular item monthwise
 
 Buy again
+
+
+# Project Template Outcomes
+
+What is the Recommendation system?
+
+Why use the Recommendation system?
+
+Where is the Recommendation system used?
+
+How does the Recommendation system work?
+
+What kind of data is needed for recommendation
+
+Different types of similarity measure
+
+Types of Recommendation system
+
+Understanding Rule-based Recommendation system
+
+Understanding Market Basket Recommendation system
+
+Understanding Content-based Recommendation system
+
+Understanding Collaborative filtering based Recommendation system
+
+Understanding Hybrid Recommendation system
+
+Understanding Clustering-based Recommendation system
+
+Understanding Classification based Recommendation system
+
+Understanding Deep Learning-based Recommendation system
+
+Understanding Knowledge graph based Recommendation system
+
+Understanding Image-based Recommendation system
+
+Implementation of Rule-based Recommendation system
 
