@@ -5,24 +5,21 @@ A recommendation system is a type of algorithm designed to recommend or suggest 
 
 This project mainly focuses on the basics of the recommendation system and a brief introduction to the different algorithms. Implementation of a Rule-based recommendation system has also been covered. 
 
-Aim
+# Aim
 
 To understand the basics of a recommendation system and build a rule-based recommender system.
 
-Data Description
-
-# Project Description
-## Business Overview
+# Data Description
 
 The dataset is a transnational data set containing all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail. The company mainly sells unique all-occasion gifts with maximum wholesaler customers. The dataset can be found at The UCL machine learning repository. The dataset contains information about 541910 customers over eight attributes. The eight attributes are InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, Country.
 
-Tech Stack
+### Tech Stack
 
-Language: Python
+### Language: Python
 
-Libraries:  pandas, numpy, seaborn, matplotlib
+### Libraries:  pandas, numpy, seaborn, matplotlib
 
-Approach
+# Approach
 
 Data Description
 
